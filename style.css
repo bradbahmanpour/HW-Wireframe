@@ -10,11 +10,9 @@ body{
 }
 
 h1, h3, p {
-    font-family: 'Roboto Slab', serif;
     color:gray;
 }
 
 h2 {
-    font-family: 'Roboto Slab', 'serif bold';
     color:gray;
 }
