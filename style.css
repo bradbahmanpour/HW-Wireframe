@@ -9,10 +9,11 @@ body{
     font-size: 20pt;
 }
 
-h1, h3, p {
+h1, h2, h3 {
     color:gray;
+    font-weight: bold;
 }
 
-h2 {
+p {
     color:gray;
 }
